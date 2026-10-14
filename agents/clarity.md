@@ -9,6 +9,6 @@
 - Public agent-tools.cloud card plus Funnel buy.md for humans and agents.
 
 **Links**:
-- [Website/Platform](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899)
+- [Website/Platform](https://flipperspectives-crypto.github.io/clarity-docs/)
 - [Documentation](https://desktop-o99r0sf.tail935fba.ts.net/static/buy.md)
 - [Discovery](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402)
